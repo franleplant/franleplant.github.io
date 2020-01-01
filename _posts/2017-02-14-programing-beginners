@@ -1,0 +1,49 @@
+---
+layout: post
+title: "TODO"
+date: 2016-12-20 18:24:00 -0300
+tags: [jekyll, pygments, pixyll]
+excerpt: >
+  Mini post about the makings of the blog and proper attributions.
+---
+
+
+
+
+### What are `$`, shell, command line, terminal?
+
+show examples
+
+tell the user how to open the terminal
+
+how to paste code
+
+
+### Why people say I should use linux/unix? What is linux/unix?
+
+A lot of non techincal people only know Windows.
+It turns out that Windows is not a magical thing, it's just a program that
+you interact with, and there are other programs like it. The type of program is called Operating System, OS
+
+Linux defines, loosely, a family of Operating Systems which among the most known are:
+- Ubuntu
+- Debian
+- Fedora
+- RedHat
+- Android (phones)
+
+Linux is a derivative of the Unix family which includes:
+
+- FreeBSD
+- MacOS (apple computer operating system)
+- iOS
+
+There are of course others, but we don't want to go all crazy about it, if you are interested
+just search for `Operative Systems` in google an read more.
+
+Why you should use Linux/Unix is a contribe question, but the pragmatic answer is:
+- It will be easier to create and use programs.
+
+For example, Ruby does not officially support Windows.
+
+
